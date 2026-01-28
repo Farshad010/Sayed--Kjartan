@@ -1,2 +1,2 @@
 
-- [Myndband fyrir verkefni 2, 1. hluti](https://youtube.com/shorts/Q-wMPScoWLE)
+- [Myndbandið fyrir verkefni 2, hluta 1](https://youtube.com/shorts/Q-wMPScoWLE)
