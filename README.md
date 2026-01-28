@@ -1,1 +1,1 @@
-# Sayed--Kjartan
+# Sayed og Kjartan
