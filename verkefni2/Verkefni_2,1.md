@@ -1,5 +1,6 @@
 - [Myndbandið fyrir verkefni 2, hluta 1](https://youtube.com/shorts/Q-wMPScoWLE)
 ## Flowchart
+<pre>
 BYRJA   
 |  
 Ræsa vélmennið  
@@ -13,3 +14,4 @@ MEÐAN fjarlægð ≤ 250 cm
 ENDIR Á MEÐAN  
 |
 STOPPA  
+<pre>
