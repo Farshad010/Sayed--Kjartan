@@ -1,4 +1,4 @@
-- [Myndbandið fyrir verkefni 2, hluta 1](https://youtube.com/shorts/Q-wMPScoWLE)
+- [Myndbandið fyrir verkefni 2, hluta 2](https://youtube.com/shorts/SpSroSf2qn0)
 
 
 
