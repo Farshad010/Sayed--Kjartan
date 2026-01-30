@@ -3,13 +3,13 @@
 BYRJA   
 |  
 Ræsa vélmennið  
-|  
-Setja fjarlægð = 50 cm  
+|    
+Setja fjarlægð = 50 cm 
 |  
 MEÐAN fjarlægð ≤ 250 cm  
-|        Keyra áfram fjarlægð  
-|        Keyra aftur á bak sömu fjarlægð  
-|        Hækka fjarlægð um 50 cm  
+|  Keyra áfram fjarlægð  
+|  Keyra aftur á bak sömu fjarlægð  
+|  Hækka fjarlægð um 50 cm  
 ENDIR Á MEÐAN  
 |
 STOPPA  
