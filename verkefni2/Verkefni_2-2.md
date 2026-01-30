@@ -1,4 +1,3 @@
-````markdown
 ```cpp
 
 Hluti_2
