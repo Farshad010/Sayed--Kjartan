@@ -1,4 +1,6 @@
-kóði fyrir verkefni 3 part 1
+- [Myndbandið fyrir verkefni 3, hluta 1](https://youtube.com/shorts/pI9PbSwMQXo)
+
+##kóði fyrir verkefni 3 part 1
 
 /* ---------------------------------------------------------------------------- */
 /*                                                                              */                 
