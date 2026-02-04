@@ -1,5 +1,8 @@
 - [Myndbandið fyrir verkefni 3, hluta 1](https://youtube.com/shorts/pI9PbSwMQXo)
 
+
+```cpp
+
 ##kóði fyrir verkefni 3 part 1
 
 /* ---------------------------------------------------------------------------- */
@@ -94,3 +97,4 @@ int main() {
     wait(5, msec);
   }
 }
+```
