@@ -1,5 +1,20 @@
 - [Myndbandið fyrir verkefni 3, hluta 1](https://youtube.com/shorts/pI9PbSwMQXo)
 
+# Fjarstýring – Takkaútskýring
+
+## Akstur
+- **Axis 3 (vinstri pinninn upp/niður):** Keyrir fram og aftur
+- **Axis 1 (hægri pinninn vinstri/hægri):** Beygir
+
+## Armur
+- **R1:** Lyftir armi
+- **R2:** Lætur arm síga
+
+## Kló
+- **L1:** Lokar kló
+- **L2:** Opnar kló
+
+
 
 ## kóði fyrir verkefni 3 part 1
 
