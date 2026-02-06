@@ -1,1 +1,1 @@
-
+- [Myndbandið fyrir verkefni 3, hluta 1](https://youtube.com/shorts/xhZYerKSQKs)
