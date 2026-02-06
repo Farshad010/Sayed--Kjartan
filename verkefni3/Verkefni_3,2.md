@@ -1,3 +1,6 @@
+- [Myndbandið fyrir verkefni 3, hluta 2](https://youtube.com/shorts/RXMgnpI8GHc)
+
+
 ## kóði fyrir verkefni-3 part -2
 
 ```cpp
