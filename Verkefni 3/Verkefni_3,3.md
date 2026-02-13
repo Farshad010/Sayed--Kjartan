@@ -1,6 +1,7 @@
 - [Myndbandið fyrir verkefni 3, hluta 3](https://youtube.com/shorts/xhZYerKSQKs)
 
-- [Myndbandið fyrir verkefni 3, hluta 3 með Neyðarrofi](https://youtube.com/shorts/9MJTgItG4-o)
+- [Myndbandið fyrir verkefni 3, hluta 3 með Neyðarrofi](https://youtube.com/shorts/9MJTgItG4-o)  
+
 
 
 ```cpp
