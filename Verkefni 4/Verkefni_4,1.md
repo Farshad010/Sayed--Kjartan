@@ -1,7 +1,7 @@
 - [Myndbandið fyrir verkefni 4, hluta 1](https://youtu.be/gqUfEb1wcoo)
-
-<img width="1083" height="798" alt="Verkefni_4-1" src="https://github.com/user-attachments/assets/eae787ab-29d0-43d1-897b-a72c9f893943" />
-
+  
+- flæðiritið 
+<img width="722" height="532" alt="Verkefni_4-1 drawio" src="https://github.com/user-attachments/assets/65434640-415b-422f-9468-9a8f920ed194" />
 ## main.cpp
 ```cpp
 #include "vex.h"
