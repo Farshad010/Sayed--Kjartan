@@ -1,5 +1,6 @@
 - [Myndbandið fyrir verkefni 4, hluta 1](https://youtu.be/gqUfEb1wcoo)
 
+<img width="1083" height="798" alt="Verkefni_4-1" src="https://github.com/user-attachments/assets/eae787ab-29d0-43d1-897b-a72c9f893943" />
 
 ## main.cpp
 ```cpp
