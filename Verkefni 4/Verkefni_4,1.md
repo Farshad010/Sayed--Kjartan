@@ -89,3 +89,75 @@ int main() {
 }
 
 ```
+## robot-config.cpp
+```cpp
+#include "vex.h"
+
+using namespace vex;
+
+// Brain
+brain Brain;
+
+// Controller
+controller Controller1 = controller(primary);
+
+// Motors
+motor LeftDriveSmart = motor(PORT1, ratio18_1, false);
+motor RightDriveSmart = motor(PORT10, ratio18_1, true);
+
+// Gyro
+gyro TurnGyroSmart = gyro(Brain.ThreeWirePort.D);
+
+// Drivetrain
+smartdrive Drivetrain = smartdrive(
+    LeftDriveSmart, RightDriveSmart,
+    TurnGyroSmart,
+    319.19, 320, 130, mm, 1
+);
+
+// Sensors
+sonar Ultrasonic = sonar(Brain.ThreeWirePort.A);   // A = ping, B = echo
+light LightSensor = light(Brain.ThreeWirePort.E);  // Light sensor on E
+
+void vexcodeInit(void) {
+  Brain.Screen.print("Device initialization...");
+  Brain.Screen.setCursor(2, 1);
+
+  wait(200, msec);
+  TurnGyroSmart.startCalibration(1);
+  Brain.Screen.print("Calibrating Gyro for Drivetrain");
+
+  while (TurnGyroSmart.isCalibrating()) {
+    wait(25, msec);
+  }
+
+  Brain.Screen.clearScreen();
+  Brain.Screen.setCursor(1, 1);
+  wait(50, msec);
+  Brain.Screen.clearScreen();
+}
+
+```
+## robot-config.h
+```cpp
+using namespace vex;
+
+extern brain Brain;
+
+// Motors
+extern motor LeftDriveSmart;
+extern motor RightDriveSmart;
+
+// Drivetrain
+extern smartdrive Drivetrain;
+
+// Sensors
+extern sonar Ultrasonic;
+extern light LightSensor;
+
+// Controller (not used yet)
+extern controller Controller1;
+
+void vexcodeInit(void);
+
+```
