@@ -1,3 +1,6 @@
+- [Myndbandið fyrir verkefni 4, hluta 1](https://youtu.be/gqUfEb1wcoo)
+
+
 ## main.cpp
 ```cpp
 #include "vex.h"
