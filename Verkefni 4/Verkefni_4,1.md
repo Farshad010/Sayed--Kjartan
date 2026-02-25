@@ -2,6 +2,8 @@
   
 - flæðiritið 
 <img width="722" height="532" alt="Verkefni_4-1 drawio" src="https://github.com/user-attachments/assets/65434640-415b-422f-9468-9a8f920ed194" />
+
+
 ## main.cpp
 ```cpp
 #include "vex.h"
