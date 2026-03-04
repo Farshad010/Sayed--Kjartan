@@ -1,4 +1,3 @@
-```cpp
 /*kennari fór yfir þegar þessi kóði var keyrður */
 
 #include "vex.h"
@@ -37,4 +36,4 @@ vision Vision5 =
 void vexcodeInit(void) {
   // nothing to initialize
 }
-```
+
