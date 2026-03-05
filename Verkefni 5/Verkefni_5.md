@@ -72,3 +72,53 @@ int main() {
 }
 
 ```
+
+## Robot-config.cpp
+```cpp
+// robot-config.cpp
+#include "vex.h"
+
+using namespace vex;
+using signature = vision::signature;
+using code = vision::code;
+
+brain Brain;
+
+// Line sensors
+line LineRight = line(Brain.ThreeWirePort.F);
+line LineMid   = line(Brain.ThreeWirePort.G);
+line LineLeft  = line(Brain.ThreeWirePort.H);
+
+// Ultrasonic sensor
+sonar Ultrasonic = sonar(Brain.ThreeWirePort.A);
+
+// Motors
+motor LeftMotor = motor(PORT1, ratio18_1, false);
+motor RightMotor = motor(PORT10, ratio18_1, true);
+
+void vexcodeInit(void) {
+  // nothing to initialize
+}
+```
+## Robot-config.h
+```cpp
+// robot-config.h
+using namespace vex;
+
+extern brain Brain;
+
+// Line sensors
+extern line LineRight;
+extern line LineMid;
+extern line LineLeft;
+
+// Ultrasonic
+extern sonar Ultrasonic;
+
+// Motors
+extern motor LeftMotor;
+extern motor RightMotor;
+
+void vexcodeInit(void);
+
+```
