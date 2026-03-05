@@ -70,8 +70,8 @@ int main() {
     wait(20, msec);
   }
 }
-
 ```
+
 
 ## Robot-config.cpp
 ```cpp
@@ -100,6 +100,7 @@ void vexcodeInit(void) {
   // nothing to initialize
 }
 ```
+
 ## Robot-config.h
 ```cpp
 // robot-config.h
@@ -120,5 +121,4 @@ extern motor LeftMotor;
 extern motor RightMotor;
 
 void vexcodeInit(void);
-
 ```
